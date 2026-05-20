@@ -1,22 +1,15 @@
-# Hi I'm David
+# Hey, I'm David 👋
+Aspiring systems programmer who loves low-level work and reproducible environments.
 
- - I'm currently learning rust, nix, and backend engineering
- - How to reach me:
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-----------------------------
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dnkyr)](https://github.com/anuraghazra/github-readme-stats)
+## 📌 Featured
+- **[nixos-config](https://github.com/DNKYr/nixos-config)** — My personal NixOS configuration
+- **[DGit](https://github.com/DNKYr/DGit)** — A simple Git implementation in Rust
 
-<!--
-**DNKYr/DNKYr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app/?user=dnkyr&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
