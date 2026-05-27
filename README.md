@@ -14,4 +14,6 @@ This is my Website: [dnkyr.xyz](https://dnkyr.xyz)
 - **[DGit](https://github.com/DNKYr/DGit)** — A simple Git implementation in Rust
 
 ## 📊 Stats
+![David's GitHub stats](https://sts.stalux.top/api?username=dnkyr&theme=great-gatsby&show_icons=true)
+
 [![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app/?user=dnkyr&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
