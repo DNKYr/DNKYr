@@ -1,7 +1,7 @@
 # Hey, I'm David 👋
 Aspiring systems programmer who loves low-level work and reproducible environments.
 
-This is my Website: [dnkyr.xyz](https://dnkyr.xyz)
+Come Visit my Website: [dnkyr.xyz](https://dnkyr.xyz)
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
